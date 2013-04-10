@@ -1,0 +1,16 @@
+body{
+  background: url(images/bg.jpg);
+}
+
+.text-center{
+	text-align: center;
+}
+
+.center{
+	margin: 0 auto;
+}
+
+.teaser{
+  border: 5px solid #ccc;
+  margin-top: 200px;
+}
